@@ -2,6 +2,32 @@
 Test program which includes 2 tests (Programming Test &amp; SQL Improvement Logic Test)
 
 ## Test 1
+Programming Test
+
+Theme : Playing cards will be given out to n(number) people.
+
+### Technologies Used : 
+PHP (Codeiginter), Jquery, CSS (Bootstrap), HTML
+
+### Steps:
+1. Download Codeiginter framework.
+2. Develop program in localhost using XAMPP.
+3. Create new class called Table which consists of Total player and Deck.
+4. Create new controller and view.
+5. Deploy program in own website : https://membersofblood.com/card_game/index.php/Home
+
+### Program Screenshots
+
+<table>
+  <tr>
+    <td>Home Page</td>
+    <td><img src="https://github.com/Zulff-GitHub/Test_Program_202307/assets/8422283/e044d639-7a3e-4b15-8c10-f7d41030e3dd"></td>
+  </tr>
+  <tr>
+    <td>Result Page</td>
+    <td><img src="https://github.com/Zulff-GitHub/Test_Program_202307/assets/8422283/ab2e1ac4-65cf-44d1-a9ad-792c7be941a6"></td>
+  </tr>
+</table>
 
 ## Test 2
 SQL Improvement Logic Test
@@ -22,12 +48,12 @@ List of tables and total row
   <tr>
     <td>Original Query</td>
     <td>9.047 seconds</td>
-    <td><img src="https://github.com/Zulff-GitHub/Test_Program_202307/assets/8422283/e1f6041c-e1d5-4518-9279-c53c63fe507f"  alt="1" ></td>
+    <td><img src="https://github.com/Zulff-GitHub/Test_Program_202307/assets/8422283/e1f6041c-e1d5-4518-9279-c53c63fe507f" ></td>
   </tr>
   <tr>
     <td>Improved Query</td>
     <td>2.531 seconds</td>
-    <td><img src="https://github.com/Zulff-GitHub/Test_Program_202307/assets/8422283/1ebcb9ba-d5ba-40db-ad14-6709394b507e"  alt="1" ></td>
+    <td><img src="https://github.com/Zulff-GitHub/Test_Program_202307/assets/8422283/1ebcb9ba-d5ba-40db-ad14-6709394b507e"></td>
   </tr>
 </table>
 
